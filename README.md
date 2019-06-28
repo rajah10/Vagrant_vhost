@@ -2,7 +2,7 @@
 setup vhost in vagrant, apache2 environment. create multiple local environment in a vagrant guest machine 
 
 # How to add multiple virtual hosts in Vagrant environment ? 
--- You have to do two setup in guest and host machine.  
+-- You have to do setup in guest and host machine.  
 
   
 
